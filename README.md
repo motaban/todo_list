@@ -1,1 +1,1 @@
-![Vista previa del proyecto](assets/captura.png)
+![Vista previa del proyecto](assets/preview.png)
